@@ -1,7 +1,7 @@
 ---
 ---
 
-Adiabatic quantum Battery
+# Adiabatic quantum Battery
 
 ---
 ---
